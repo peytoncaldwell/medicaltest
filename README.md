@@ -1,10 +1,11 @@
-# 🏥 Patient Discharge Assistant AI (Pro Edition)
+# 🏥 Patient Discharge Assistant AI 
 
 A Python-based AI tool with:
 - 📊 Web dashboard via Streamlit
 - 🔍 ML-based discharge predictions
 - 🤖 AI-written discharge summaries using OpenAI's GPT-3
 - 📄 Medical chart uploads
+- This is mainly for my mom
 
 ## 📦 Features
 - Input patient vitals
